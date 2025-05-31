@@ -1,1 +1,1 @@
-# GymAppWeb
+# proyecto creado principalmente con gpt para el etiquetado y los estilos(html y css)añadiendo unicamente la logica en php y js

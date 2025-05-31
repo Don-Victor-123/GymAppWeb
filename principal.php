@@ -33,7 +33,7 @@ include 'administrador/templates/cabecera.php';
             <h3>Ejercicios</h3>
             <div id="ejercicios"></div> 
 
-            <button type="button" onclick="mostrarModal()">+ Anotar ejercicio</button>
+            <button type="button" onclick="mostrarModal()">+ Anotar Serie</button>
             <br><br>
             <button type="button" onclick="enviarRutina()">Guardar Rutina</button>
         </form>
